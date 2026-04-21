@@ -68,13 +68,6 @@ Currently open to **freelance projects** and **collaborations**.
 
 ---
 
-## 📊 GitHub Stats
-
-![Noor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noorhuda523&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorhuda523&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 💼 Available For
 
 - Freelance data analysis & reporting
